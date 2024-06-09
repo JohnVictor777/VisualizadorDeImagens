@@ -39,6 +39,7 @@ Bem-vindo ao repositório do projeto Visualizador de Imagem! Este projeto é uma
 1. Clone este repositório para o seu computador:
     ```sh
     git clone https://github.com/JohnVictor777/VisualizadorDeImagens.git
+    
     ```
 2. Abra o projeto no Visual Studio.
 3. Compile e execute a aplicação.
