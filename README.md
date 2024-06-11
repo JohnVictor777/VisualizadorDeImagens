@@ -1,6 +1,6 @@
 # Projeto Visualizador de Imagem
 
-Bem-vindo ao repositório do projeto Visualizador de Imagem! Este projeto é uma aplicação Windows Forms desenvolvida em C# que permite aos usuários visualizar e manipular imagens através de uma interface gráfica. As funcionalidades incluem mostrar imagem, apagar imagem, adicionar cor de fundo, esticar imagem e fechar a aplicação.
+Bem-vindo ao meu projeto Visualizador de Imagem! Este projeto é uma aplicação Windows Forms desenvolvida em C# que permite aos usuários visualizar e manipular imagens através de uma interface gráfica. As funcionalidades incluem mostrar imagem, apagar imagem, adicionar cor de fundo, esticar imagem e fechar a aplicação.
 
 ## Funcionalidades
 
